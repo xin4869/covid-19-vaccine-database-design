@@ -1,5 +1,5 @@
 # Project Vaccine Distribution
-> Databases course project
+> Course project - Databases for data science
 
 In this project, I desgined first conceptual UML diagram to describe the relation of different tables. You can find the UML diagram [here](UML/revised.svg). 
 Then, I established a connection with the course PostgreSQL Database server using Python and its library psycopg2, which you can see [here](https://github.com/xin4869/covid-19-vaccine-database-design/blob/f16e330f8e00698fd7d1021f6f084cefc2ebe0a0/code/data_to_psql_db.py) from line 65 yo line 83. 
